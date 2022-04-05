@@ -37,10 +37,9 @@ All the exams consist of **60 multiple choice questions** and you have **60 minu
 
 I particularly found out this book very handy to understand how C* works, I would recommend you to read it if you have time, this would give you a strong base to deal with the task on hands.
 
-![84cdf1b7](https://user-images.githubusercontent.com/67383481/161704634-200b2193-d8d9-4a59-82b9-8c651feb492c.png)
 &nbsp;
 <p align="center">
-   <img width="300" height="500" src="https://user-images.githubusercontent.com/67383481/161704634-200b2193-d8d9-4a59-82b9-8c651feb492c.png">
+   <img width="300" height="400" src="https://user-images.githubusercontent.com/67383481/161704634-200b2193-d8d9-4a59-82b9-8c651feb492c.png">
 </p>
 
 From this book the content of chapters 2, 5, 6, 9 are from my view highly recommended when pursuing these certificates. :book:
@@ -83,10 +82,9 @@ The format of this course delivered by DataStax Academy is different than the pr
 
 Before working on the series topic, if your experience on Docker and K8s is new for you, it would be vital to review a good book about K8s. The book I recommend for this is:
 
-![68c79a48](https://user-images.githubusercontent.com/67383481/154661402-c2bb0b75-f0d1-45e3-b861-a9d043bab2c8.png)
 &nbsp;
 <p align="center">
-  <img width="600" height="500" src="https://user-images.githubusercontent.com/67383481/154661402-c2bb0b75-f0d1-45e3-b861-a9d043bab2c8.png">
+  <img width="300" height="400" src="https://user-images.githubusercontent.com/67383481/154661402-c2bb0b75-f0d1-45e3-b861-a9d043bab2c8.png">
 </p>
 
 Within this book touch the content in Part 1: chapters 1, 2 and Part 2 chapters 3, 4, 5, 6. :book:
