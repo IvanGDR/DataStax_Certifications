@@ -40,7 +40,7 @@ I particularly found out this book very handy to understand how C* works, I woul
 ![84cdf1b7](https://user-images.githubusercontent.com/67383481/161704634-200b2193-d8d9-4a59-82b9-8c651feb492c.png)
 &nbsp;
 <p align="center">
-   <img width="600" height="500" src="https://user-images.githubusercontent.com/67383481/161704634-200b2193-d8d9-4a59-82b9-8c651feb492c.png">
+   <img width="300" height="500" src="https://user-images.githubusercontent.com/67383481/161704634-200b2193-d8d9-4a59-82b9-8c651feb492c.png">
 </p>
 
 From this book the content of chapters 2, 5, 6, 9 are from my view highly recommended when pursuing these certificates. :book:
