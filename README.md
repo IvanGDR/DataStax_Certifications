@@ -12,6 +12,13 @@ In return to the community and colleagues interested in obtaining these certific
 
 ![8f9ec3c4](https://user-images.githubusercontent.com/67383481/161704530-e0979038-9766-4d25-be73-4d48dea7f0e7.png)
 
+&nbsp;
+<p align="center">
+  <img width="600" height="500" src="https://user-images.githubusercontent.com/67383481/161704530-e0979038-9766-4d25-be73-4d48dea7f0e7.png">
+</p>
+
+
+
 Although this guide is being elaborated with the purpose to obtain the 3 certificates currently offered by DataStax, it can be used to prepare each exam individually but as I develop this document, you will notice that there is an underlying pattern silently pointed out  by the DataSax Academy Exams that would make you realise the convenience of taking the courses offered by DataStax Academy as well as the supported resources in a convenient way as showing it here.
 
 # Before Preparing the Exam :walking:
