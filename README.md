@@ -9,14 +9,10 @@ I have recently cleared out the DataStax Certification Exams:
 - Apache Cassandra Operations on Kubernetes Associate Certification.:mortar_board:
 
 In return to the community and colleagues interested in obtaining these certifications, I have decided to write this post sharing my experience and study guide that can make easier this journey.
-
-![8f9ec3c4](https://user-images.githubusercontent.com/67383481/161704530-e0979038-9766-4d25-be73-4d48dea7f0e7.png)
-
 &nbsp;
 <p align="center">
   <img width="600" height="500" src="https://user-images.githubusercontent.com/67383481/161704530-e0979038-9766-4d25-be73-4d48dea7f0e7.png">
 </p>
-
 
 
 Although this guide is being elaborated with the purpose to obtain the 3 certificates currently offered by DataStax, it can be used to prepare each exam individually but as I develop this document, you will notice that there is an underlying pattern silently pointed out  by the DataSax Academy Exams that would make you realise the convenience of taking the courses offered by DataStax Academy as well as the supported resources in a convenient way as showing it here.
@@ -42,7 +38,10 @@ All the exams consist of **60 multiple choice questions** and you have **60 minu
 I particularly found out this book very handy to understand how C* works, I would recommend you to read it if you have time, this would give you a strong base to deal with the task on hands.
 
 ![84cdf1b7](https://user-images.githubusercontent.com/67383481/161704634-200b2193-d8d9-4a59-82b9-8c651feb492c.png)
-
+&nbsp;
+<p align="center">
+   <img width="600" height="500" src="https://user-images.githubusercontent.com/67383481/161704634-200b2193-d8d9-4a59-82b9-8c651feb492c.png">
+</p>
 
 From this book the content of chapters 2, 5, 6, 9 are from my view highly recommended when pursuing these certificates. :book:
 
@@ -85,7 +84,10 @@ The format of this course delivered by DataStax Academy is different than the pr
 Before working on the series topic, if your experience on Docker and K8s is new for you, it would be vital to review a good book about K8s. The book I recommend for this is:
 
 ![68c79a48](https://user-images.githubusercontent.com/67383481/154661402-c2bb0b75-f0d1-45e3-b861-a9d043bab2c8.png)
-
+&nbsp;
+<p align="center">
+  <img width="600" height="500" src="https://user-images.githubusercontent.com/67383481/154661402-c2bb0b75-f0d1-45e3-b861-a9d043bab2c8.png">
+</p>
 
 Within this book touch the content in Part 1: chapters 1, 2 and Part 2 chapters 3, 4, 5, 6. :book:
 
