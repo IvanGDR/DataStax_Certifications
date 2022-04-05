@@ -34,7 +34,7 @@ All the exams consist of **60 multiple choice questions** and you have **60 minu
 
 I particularly found out this book very handy to understand how C* works, I would recommend you to read it if you have time, this would give you a strong base to deal with the task on hands.
 
-![84cdf1b7](https://user-images.githubusercontent.com/67383481/154661281-b7d5a3e8-fe3c-42e1-b1fa-5d1cc9e9b4aa.png)
+![8f9ec3c4](https://user-images.githubusercontent.com/67383481/161704134-b9db9d60-2036-438e-a734-e55c7b28d7ab.png)
 
 
 From this book the content of chapters 2, 5, 6, 9 are from my view highly recommended when pursuing these certificates. :book:
